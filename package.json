@@ -1,0 +1,26 @@
+{ "name": "generic-object-error",
+  "version": "0.1.0",
+  "description": "Generic error message enhancer methods to slap onto your prototypes.",
+  "keywords": [
+    "objerr"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/generic-object-error-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/generic-object-error-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/generic-object-error-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "objerr.js",
+  "scripts": {
+    "test": "nodejs test.js"
+  },
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
